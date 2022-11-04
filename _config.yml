@@ -1,0 +1,20 @@
+title: Welcome to my PostgreSQL blog
+description: I write short articles about postgres related topics
+theme: jekyll-theme-hacker
+
+name: Davide Carta
+work: Database Consultant 
+company: EDB
+avatar: https://raw.githubusercontent.com/signorcarta/signorcarta.github.io/master/images/myAvatar.png
+twitter: signorcarta
+email: davide.carta.185@gmail.com
+
+timezone: Europe/Rome
+excerpt_separator: "<!--MORE-->"
+paginate: 10
+paginate_path: "page:num"
+exclude: ["README.md"]
+show_drafts: false
+
+plugins:
+  - jekyll-feed
